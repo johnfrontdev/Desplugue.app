@@ -40,4 +40,4 @@ Desenvolvido por [@johnfrontdev](https://github.com/johnfrontdev), CEO da The De
 
 ## Licença
 
-MIT License © 2025 John Miguel
+MIT License © 2025 John Lima
